@@ -1,0 +1,12 @@
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/bin/Debug/netcoreapp3.1/ShaxmatiAlfavit.deps.json
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/bin/Debug/netcoreapp3.1/ShaxmatiAlfavit.runtimeconfig.json
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/bin/Debug/netcoreapp3.1/ShaxmatiAlfavit.runtimeconfig.dev.json
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/bin/Debug/netcoreapp3.1/ShaxmatiAlfavit.dll
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/bin/Debug/netcoreapp3.1/ShaxmatiAlfavit.pdb
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.csprojAssemblyReference.cache
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.AssemblyInfoInputs.cache
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.AssemblyInfo.cs
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.csproj.CoreCompileInputs.cache
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.dll
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.pdb
+/Users/dovrushov/Projects/ShaxmatiAlfavit/ShaxmatiAlfavit/obj/Debug/netcoreapp3.1/ShaxmatiAlfavit.genruntimeconfig.cache

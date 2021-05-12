@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7B9E3CA5-486A-4538-8CCB-C7D43B0DD9BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShaxmatiAlfavit/Program.cs">
+    <Files>
+      <File FileName="ShaxmatiAlfavit/Program.cs" Line="71" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShaxmatiAlfavit" expanded="True">
+            <Node name="ShaxmatiAlfavit" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShaxmatiAlfavit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
